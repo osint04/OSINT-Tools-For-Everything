@@ -1,5 +1,5 @@
- <p align="center">
-	<b>OSINT-Tools-For-Everything</b></p>
+ <p align="center" height=40>
+	<b>OSINT Tools For Everything</b></p>
 
  <h1 align="center">
 <img src="https://github.com/user-attachments/assets/1cc5102b-6645-4b83-b840-035627c1bc56" align="center"/></h1>
