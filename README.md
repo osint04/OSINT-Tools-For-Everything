@@ -4,7 +4,7 @@
 	<b>OSINT Tools For Everything</b></p>
 
  <h1 align="center">
-<img src="https://github.com/user-attachments/assets/fe90dc68-edeb-48c4-925f-94f4491e520e/" align="center"/></h1>
+<img src="https://github.com/user-attachments/assets/1cc5102b-6645-4b83-b840-035627c1bc56" align="center"/></h1>
 
  <p align="center">
 A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
