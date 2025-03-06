@@ -1,4 +1,4 @@
- <p align="center" height="40">
+ <p align="center">
 	<b>OSINT Tools For Everything</b></p>
 
  <h1 align="center">
