@@ -1635,4 +1635,4 @@ about police misconduct in Chicago
 [⇧ Top](#index)
 
  <h1 align="center">
-<img src="https://github.com/user-attachments/assets/b9b8be57-5db2-4285-9532-9657d628256a" align="center"/></h1>
+<img src="https://github.com/user-attachments/assets/b9b8be57-5db2-4285-9532-9657d628256a" align="right" width="100"/></h1>
